@@ -1,6 +1,6 @@
 # Team 4 Project Developers
 
-+ [Paola Alvarado]()
++ [Paola Alvarado](https://github.com/polly-rado)
 + [Joseph Lauria](https://github.com/josephl17)
 + [Gary Dunnington]()
 + [Brandon Nesslage](https://github.com/Star-tide)
