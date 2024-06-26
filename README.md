@@ -2,7 +2,7 @@
 
 + [Paola Alvarado](https://github.com/polly-rado)
 + [Joseph Lauria](https://github.com/josephl17)
-+ [Gary Dunnington]()
++ [Gary Dunnington](https://github.com/gd757)
 + [Brandon Nesslage](https://github.com/Star-tide)
 
 
@@ -12,4 +12,7 @@
 The main goal is to create our own version of a popular boardgame like checkers, monopoly etc.
  
 
- Test
+ Paola will work with CSS Styling
+
+ Gary will work with Animations
+
