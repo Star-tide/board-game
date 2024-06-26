@@ -16,3 +16,4 @@ The main goal is to create our own version of a popular boardgame like checkers,
 
  Gary will work with Animations
 
+ Joseph and Brandon will work with most of the react components
