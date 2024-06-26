@@ -2,7 +2,7 @@
 ### [Project Repo Link](https://github.com/Star-tide/board-game.git)
 
 + [Paola Alvarado]()
-+ [Joseph Lauria]()
++ [Joseph Lauria](https://github.com/josephl17)
 + [Gary Dunnington]()
 + [Brandon Nesslage](https://github.com/Star-tide)
 
