@@ -8,7 +8,8 @@
 // };
 // 
 // export default Board;
-import "./css/boardStyle.css"
+import "./css/boardStyle.css";
+import "./css/checkerPeice.css";
 
 function Board() {
   const boardSize = 8;
