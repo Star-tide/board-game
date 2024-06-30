@@ -8,6 +8,7 @@
 // };
 // 
 // export default Board;
+import "./css/boardStyle.css"
 
 function Board() {
   const boardSize = 8;

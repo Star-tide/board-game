@@ -1,0 +1,15 @@
+.piece {
+    width: 35px; 
+    height: 35px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.piece.black {
+    background-color: #000;
+}
+
+.piece.white {
+    background-color: #fff;
+}
+  
