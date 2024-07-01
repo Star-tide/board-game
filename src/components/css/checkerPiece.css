@@ -1,4 +1,19 @@
 /* checker piece movement test */
+.piece {
+  width: 35px; 
+  height: 35px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+.piece.black {
+  background-color: #340404;
+}
+
+.piece.white {
+  background-color: #ede5e5;
+}
+
 @keyframes movePiece {
     from { transform: translate(0, 0); } /* translate moves along (x,y) axis */ /* translate (100px, 0px) moves 100px to right*/
     to { transform: translate(100px, 100px); }
