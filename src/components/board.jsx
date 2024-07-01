@@ -10,7 +10,7 @@
 // export default Board;
 import Reach, { useState } from "react";
 import "./css/boardStyle.css";
-import "./css/checkerPeice.css";
+import "./css/checkerPiece.css";
 
 function Board() {
   const boardSize = 8;
